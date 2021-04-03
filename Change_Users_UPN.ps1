@@ -1,4 +1,7 @@
-﻿#Get a list of the UPN suffixes
+Set-Location C:\
+Clear-Host
+
+#Get a list of the UPN suffixes
 Get-ADForest | Format-List UPNSuffixes
 
 #Let’s add the UPN suffix
