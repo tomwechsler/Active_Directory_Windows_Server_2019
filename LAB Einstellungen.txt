@@ -1,0 +1,13 @@
+IP-Range:		172.16.1.0 /24		DHCP: 172.16.1.200 / 229
+
+GATEWAY:		172.16.1.1		(Windows Server mit NAT, DHCP-Server)
+
+Domäne:			tomrocks.local		(Microsoft 365 => tomrocks.ch)
+
+DC01:			172.16.1.10		DC
+DC02:			172.16.1.11		DC (Server ohne GUI)
+
+FS01:			172.16.1.20		(Home-Laufwerke, Datenablage)	
+
+CLIENT01:		DHCP
+CLIENT02:		DHCP
