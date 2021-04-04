@@ -1,1 +1,3 @@
 https://docs.microsoft.com/en-us/troubleshoot/windows-server/identity/diagnose-replication-failures
+
+https://docs.microsoft.com/en-us/windows-server/get-started-19/install-fod-19
